@@ -1,0 +1,5 @@
+uv311/
+_pycache_/
+*.py [cod]
+.pytest_cache/
+.vscode/
